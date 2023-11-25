@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=synthwave"><img src="https://github-profile-trophy.vercel.app/?username=shinkeishi" alt="shinkeishi" /></a> </p>
 
-- 🔭 I’m currently working on **OpenJio**
+- 🔭 I’m currently working on **Munchie**
 
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **ashley.tan.2022@scis.smu.edu.sg**
 
