@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Munchie**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Deno**
 
 - 📫 How to reach me **ashley.tan.2022@scis.smu.edu.sg**
 
