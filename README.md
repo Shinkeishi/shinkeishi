@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on **Munchie**
 
-- 🌱 I’m currently learning **Flutter and Deno**
+- 🌱 I’m currently learning **Flutter and Express**
+
+- 👨‍💻 All of my projects are available at **shinkeishi.github.io/portfolio-website/**
 
 - 📫 How to reach me **ashley.tan.2022@scis.smu.edu.sg**
 
-- ⚡ Fun fact **I love keyboards!**
+- ⚡ Fun fact **I love to bake and cook!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
