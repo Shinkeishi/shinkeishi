@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashley Tan</h1>
-<h3 align="center">An aspiring web developer from Singapore</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinkeishi&label=Profile%20views&color=0e75b6&style=flat" alt="shinkeishi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=synthwave"><img src="https://github-profile-trophy.vercel.app/?username=shinkeishi" alt="shinkeishi" /></a> </p>
+<h3 align="center">An aspiring software engineer from Singapore</h3>
 
 - 🔭 I’m currently working on **Munchie**
 
@@ -15,7 +11,7 @@
 
 - ⚡ Fun fact **I love to bake and cook!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashleyytanjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashleyytanjx" height="30" width="40" /></a>
 </p>
